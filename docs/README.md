@@ -1,1 +1,1 @@
-Project description
+A default Sphinx project
